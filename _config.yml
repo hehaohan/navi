@@ -1,22 +1,22 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: hhh910103/navi
+repository_url: https://github.com/hhh910103/navi
 
 timezone: Asia/Shanghai
 lang: zh_CN
 
-title: 北邮人导航 · BYR-Navi
-alias_en: BYR-Navi
-alias_cn: 北邮人导航
-description: A Navigation Website for BYR
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: https://byr-navi.com
-established_at: "2016-10-01T00:00+08:00"
+title: 昊翰的导航 · Jason's Navi
+alias_en: Jason's Navi
+alias_cn: 昊翰的导航
+description: A Navigation Website
+keywords:
+url: https://www.hehaohan.com/navi
+established_at: "2019-12-29T00:00+08:00"
 
-author: iROCKBUNNY
-author_url: https://irockbunny.com
-organization: TEELAB
-organization_url: https://teelab.net
-contact: contact[at]irockbunny[dot]com
+author: 何昊翰
+author_url: https://www.hehaohan.com/blog
+organization:
+organization_url:
+contact: iam[at]hehaohan[dot]com
 
 image: /images/logo.png
 logo: /images/logo.png
