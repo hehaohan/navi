@@ -18,10 +18,10 @@ organization:
 organization_url:
 contact: iam[at]hehaohan[dot]com
 
-image: /images/logo.png
-logo: /images/logo.png
-logo_dark: /images/logo-dark.svg
-logo_white: /images/logo-white.svg
+image: ./images/logo.png
+logo: ./images/logo.png
+logo_dark: ./images/logo-dark.svg
+logo_white: ./images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
