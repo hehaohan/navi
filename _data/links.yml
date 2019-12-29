@@ -37,6 +37,67 @@
       style: basic
       url: https://www.hehaohan.com/wiki/RKPH.html
 
+  - name: 工具
+    links:
+    - name: '12306'
+      icon: train red
+      style: basic
+      url: http://www.12306.cn/
+
+    - name: 快递查询
+      icon: truck olive
+      style: basic
+      url: http://www.kuaidi100.com/
+
+    - name: 大众点评
+      icon: utensils orange
+      style: basic
+      url: http://www.dianping.com/
+
+    # - name: 网易邮箱
+    #   icon: envelope red
+    #   style: basic
+    #   url: http://email.163.com/
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
+
+    - name: 新浪邮箱
+      icon: envelope red
+      style: basic
+      url: https://mail.sina.com.cn/
+
+    - name: Gmail
+      icon: google red
+      style: basic
+      url: https://mail.google.com/
+
+    - name: 谷歌翻译
+      icon: language blue
+      style: basic
+      url: https://translate.google.com/
+
+    - name: 百度翻译
+      icon: paw blue
+      style: basic
+      url: https://fanyi.baidu.com/
+
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
+
+    - name: 彩云天气
+      icon: cloud olive
+      style: basic
+      url: http://caiyunapp.com/map
+
+    - name: 天眼查
+      style: basic
+      url: https://www.tianyancha.com/
+
 - categories:
   - name: 购物
     links:
@@ -109,67 +170,6 @@
     - name: 有品
       style: brown
       url: https://xiaomiyoupin.com/
-
-  - name: 工具
-    links:
-    - name: '12306'
-      icon: train red
-      style: basic
-      url: http://www.12306.cn/
-
-    - name: 快递查询
-      icon: truck olive
-      style: basic
-      url: http://www.kuaidi100.com/
-
-    - name: 大众点评
-      icon: utensils orange
-      style: basic
-      url: http://www.dianping.com/
-
-    # - name: 网易邮箱
-    #   icon: envelope red
-    #   style: basic
-    #   url: http://email.163.com/
-
-    - name: QQ邮箱
-      icon: qq black
-      style: basic
-      url: https://mail.qq.com/
-
-    - name: 新浪邮箱
-      icon: envelope red
-      style: basic
-      url: https://mail.sina.com.cn/
-
-    - name: Gmail
-      icon: google red
-      style: basic
-      url: https://mail.google.com/
-
-    - name: 谷歌翻译
-      icon: language blue
-      style: basic
-      url: https://translate.google.com/
-
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: https://fanyi.baidu.com/
-
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-
-    - name: 彩云天气
-      icon: cloud olive
-      style: basic
-      url: http://caiyunapp.com/map
-
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
 
   - name: 社交
     links:
