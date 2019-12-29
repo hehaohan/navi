@@ -15,3 +15,6 @@
 
 - name: Linode
   url: https://www.linode.com/
+
+- name: BYR-Navi
+  url: https://byr-navi.com/
