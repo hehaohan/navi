@@ -3,10 +3,10 @@
   url: /
   active_key: home
 
-- name: 定制化
+- name: Wiki主页
   icon: tools
-  url: /customize/
-  active_key: customize
+  url: https://www.hehaohan.com/wiki
+  active_key:
 
 #- name: 访客分析
 #  icon: chart bar
