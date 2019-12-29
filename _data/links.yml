@@ -25,6 +25,17 @@
       style: basic
       url: http://land.zjgtjy.cn/GTJY_ZJ/go_home
 
+    - name: 江苏土地交易市场
+      style: basic
+      url: http://www.landjs.com/web/wsjyxtdz.html
+
+    - name:
+      style: basic
+      url: https://
+
+    - name:
+      style: basic
+      url: https://
 
 - categories:
   - name: 购物
