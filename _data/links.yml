@@ -44,6 +44,26 @@
       style: basic
       url: http://www.12306.cn/
 
+    - name: 全网VIP视频免费看
+      style: basic
+      url: https://www.hehaohan.com/vedio/
+
+    - name: Windows系统优化
+      style: basic
+      url: http://twm000.top/
+
+    - name: Windows软件下载
+      style: basic
+      url: https://www.anxz.com/
+
+    - name: MacOS软件下载
+      style: basic
+      url: https://xclient.info/
+
+    - name: 安卓软件下载
+      style: basic
+      url: https://apkcombo.com/zh-cn/
+
     - name: 快递查询
       icon: truck olive
       style: basic
