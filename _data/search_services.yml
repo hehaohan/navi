@@ -6,22 +6,6 @@
     style: black
     show: true
 
-- id: google
-  name: 谷歌
-  url: https://google.com/search?q={query}
-  shortcut:
-    icon: google red inverted
-    style: black
-    show: true
-
-- id: bing
-  name: 必应
-  url: https://cn.bing.com/search?q={query}
-  shortcut:
-    icon: microsoft teal inverted
-    style: black
-    show: true
-
 - id: baidumap
   name: 百度地图
   url: https://api.map.baidu.com/geocoder?address={query}&output=html
@@ -29,6 +13,22 @@
     icon: map marked alternate yellow inverted
     style: black
     show: true
+
+- id: google
+  name: 谷歌
+  url: https://google.com/search?q={query}
+  shortcut:
+    icon: google red inverted
+    style: black
+    show: false
+
+- id: bing
+  name: 必应
+  url: https://cn.bing.com/search?q={query}
+  shortcut:
+    icon: microsoft teal inverted
+    style: black
+    show: false
 
 - id: baidunews
   name: 百度资讯
@@ -313,13 +313,13 @@
     style: black
     show: true
 
-- id: onejav
-  name: OneJav
-  url: https://onejav.com/search/{query}
-  shortcut:
-    icon: film pink inverted
-    style: black
-    show: false
+#- id: onejav
+#  name: OneJav
+#  url: https://onejav.com/search/{query}
+#  shortcut:
+#    icon: film pink inverted
+#    style: black
+#    show: false
 
 #- id: byrsearch
 #  name: 北邮人论坛1
