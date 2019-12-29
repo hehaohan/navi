@@ -1,4 +1,32 @@
 - categories:
+  - name: 工作
+    links:
+    - name: RKPH邮箱
+      style: basic
+      url: https://mail.rkph.com/
+
+    - name: 路劲OA系统
+      style: basic
+      url: https://oa.rkph.com.cn/seeyon/index.jsp
+
+    - name: 路劲ESS系统
+      style: basic
+      url: https://hrm.rkph.com.cn/ESS/logon.aspx
+
+    - name: 克尔瑞系统
+      style: basic
+      url: https://app.cric.com/
+
+    - name: 上海土地交易市场
+      style: basic
+      url: http://www.shtdsc.com/
+
+    - name: 浙江土地交易市场
+      style: basic
+      url: http://land.zjgtjy.cn/GTJY_ZJ/go_home
+
+
+- categories:
   - name: 购物
     links:
     - name: 淘宝
