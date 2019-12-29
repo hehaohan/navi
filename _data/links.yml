@@ -44,6 +44,10 @@
       style: basic
       url: http://www.12306.cn/
 
+    - name: 企查查
+      style: basic
+      url: https://www.qichacha.com/
+
     - name: 全网VIP视频免费看
       style: basic
       url: https://www.hehaohan.com/vedio/
@@ -113,10 +117,6 @@
       icon: cloud olive
       style: basic
       url: http://caiyunapp.com/map
-
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
 
 - categories:
   - name: 购物
