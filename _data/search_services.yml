@@ -313,13 +313,13 @@
     style: black
     show: true
 
-#- id: onejav
-#  name: OneJav
-#  url: https://onejav.com/search/{query}
-#  shortcut:
-#    icon: film pink inverted
-#    style: black
-#    show: false
+- id: 安卓APK
+  name: 安卓APK
+  url: https://apk.support/download-app/{query}
+  shortcut:
+    icon: film pink inverted
+    style: black
+    show: true
 
 #- id: byrsearch
 #  name: 北邮人论坛1
